@@ -19,13 +19,15 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
+![social links profile](https://github.com/Shillue/social-links-profile-main/assets/86475008/dc4203f9-5d88-44c7-848d-656f0e850c1f)
 
+![social links profile - hover](https://github.com/Shillue/social-links-profile-main/assets/86475008/12bb74ab-6ae2-4929-8bbd-fd4bb08167ab)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/Shillue/social-links-profile-main.git)
+- Live Site URL: [Add live site URL here](https://shillue.github.io/social-links-profile-main/)
 
 ## My process
 
