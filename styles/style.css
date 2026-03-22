@@ -113,7 +113,8 @@ main.container__main {
   width: 100%;
 }
 
-.redes__sociais__links .link:hover {
+.redes__sociais__links .link:hover,
+.redes__sociais__links .link:focus-visible{
   background-color: var(--color-background-hover);
   color: var(--color-font-hover);
 }
@@ -134,7 +135,8 @@ main.container__main {
   color: var(--color-font-secundary);
   font-weight: 600;
 }
-.footer__attribution a:hover {
+.footer__attribution a:hover,
+.footer__attribution a:focus-visible{
   text-decoration: none;
   color: var(--color-font-principal);
   font-weight: 700;
