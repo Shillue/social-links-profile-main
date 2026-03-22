@@ -1,0 +1,52 @@
+/* Responsive */
+@media (max-width: 350px) {
+  /* main */
+  main.container__main {
+    height: 95%;
+    padding: 5px;
+  }
+
+  /* card */
+  .container__main .card__social__profile {
+    padding: 20px 10px;
+    height: auto;
+  }
+  /* profile */
+  .card__social__profile .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 5px;
+    margin: 10px 5px 2px;
+  }
+  /* avatar */
+  .profile .profile__avatar {
+    width: 28%;
+    margin-bottom: 5px;
+  }
+
+  /* dados */
+
+  .profile .profile__dados {
+    padding: 5px;
+    margin: 5px;
+    font-size: 12px;
+  }
+
+  .profile .profile__dados .profile__dados__description {
+    margin-bottom: 2px;
+  }
+
+  /* links */
+  .redes__sociais__links .link {
+    padding: 12px;
+  }
+
+  /* footer */
+  .footer__attribution {
+    height: 5%;
+    padding: 15px;
+    font-size: 11px;
+  }
+}
