@@ -1,56 +1,78 @@
-# social-links-profile-main 
-# Frontend Mentor - Social links profile solution
+# Frontend Mentor - Solução para o desafio Social links profile
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o desafio [Social links profile no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).  
+Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de programação por meio da criação de projetos realistas.
+## 📑 Índice
 
-## Table of contents
+- [Visão geral](#-visão-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#-captura-de-tela)
+  - [Links](#-links)
+- [Meu processo](#-meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#-o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#-desenvolvimento-contínuo)
+- [Autor](#-autor)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-## Overview
+## 📌 Visão geral
 
-### Screenshot
+### O desafio
+
+Os usuários devem ser capazes de:
+
+- Ver os estados de hover e focus para todos os elementos interativos da página
+- Visualizar o layout de forma responsiva em diferentes tamanhos de tela
+
+### 📸 Captura de tela
 
 ![social links profile](https://github.com/Shillue/social-links-profile-main/assets/86475008/dc4203f9-5d88-44c7-848d-656f0e850c1f)
 
 ![social links profile - hover](https://github.com/Shillue/social-links-profile-main/assets/86475008/12bb74ab-6ae2-4929-8bbd-fd4bb08167ab)
 
+### 🔗 Links
 
-### Links
+- URL da solução: [Link](https://github.com/Shillue/social-links-profile-main.git)
+- URL do site ativo: [Link](https://shillue.github.io/social-links-profile-main/)
 
-- Solution URL: [Add solution URL here](https://github.com/Shillue/social-links-profile-main.git)
-- Live Site URL: [Add live site URL here](https://shillue.github.io/social-links-profile-main/)
+## 🛠️ Meu processo
 
-## My process
+### Construído com
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 semântico
+- CSS3
+- Propriedades personalizadas do CSS (variáveis)
 - Flexbox
+- Design responsivo
+- Abordagem mobile-first
 
-### What I learned
+### 📚 O que eu aprendi
 
-With this project you can recap semantic HTML and CSS markup.
+Neste projeto, reforcei fundamentos importantes de HTML e CSS, especialmente relacionados à estruturação de componentes, alinhamento com Flexbox e responsividade.
 
-### Continued development
+Algumas lições importantes:
 
-Therefore, I will focus more on the semantic writing of HTML and CSS, as well as Flexbox.
+- Uso de variáveis CSS para organizar as cores do projeto
+- Centralização de conteúdo com Flexbox
+- Diferença entre `height` e `min-height`
+- Uso de `flex: 1` para distribuir melhor o espaço do layout
+- Criação de estados de hover para links interativos
+- Escrita de um CSS mais limpo e organizado
 
-## Author
+Esse desafio também me ajudou a praticar melhor a construção de um card responsivo e centralizado, mantendo o layout consistente em diferentes tamanhos de tela.
 
-- Frontend Mentor - [@Shilluê](https://www.frontendmentor.io/profile/Shillue)
-- Linkedin - (https://www.linkedin.com/in/shillu%C3%AA/)
+### 🚀 Desenvolvimento contínuo
 
+Em projetos futuros, quero continuar aprimorando:
 
-## Acknowledgments
+- Estratégias de layout responsivo
+- Organização e reutilização do CSS
+- Boas práticas de acessibilidade
+- Estruturação semântica com HTML
+- Mais segurança ao trabalhar com Flexbox
 
-I thank Frontend Mentor for providing challenges like these.
+## 👤 Autor
+
+Name: Shilluê   
+Frontend Mentor: [@Shilluê](https://www.frontendmentor.io/profile/Shillue)      
+LinkedIn: [Shilluê](https://www.linkedin.com/in/shillu%C3%AA/)  
